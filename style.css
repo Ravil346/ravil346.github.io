@@ -1,0 +1,160 @@
+body {margin:0; padding:0; }
+
+.header {
+    display: flex;
+    width: 100%;
+    height: 90px;
+    background-color: #D4904B;
+}
+
+p {
+    font-family: GilroyBold;
+    font-size: 12pt;
+}
+
+
+
+.abs p{
+    font-size: 60pt;
+}
+
+.icon {
+    margin: 10px 10px 22px 380px;
+}
+
+.libr {
+    margin-top: 35px;
+    margin-right: 590px; 
+    color: white;
+}
+
+.first-text, .second-text, .third-text {
+    margin-top: 15px;
+    margin-right: 60px; 
+    color: white;
+}
+
+
+.imp-text {
+    margin: 150px 15px 35px 380px;
+}
+
+.imp-text p {
+    font-size: 32pt;
+    color: #B25900;
+}
+
+.twoch {
+    margin-top: -45px;
+}
+
+.noimp-text{
+    margin-left: 380px;
+    margin-top: -20px;
+}
+.noimp-text p {
+    color: #B25900;
+    font-family: GilroySemibold;
+}
+.nipm2{
+    margin-top: -15px;
+}
+
+.reg {
+    border: 0;
+    border-radius: 30px;
+    background: #B25900;
+    color: #fff;
+    padding: 20px 30px;
+    font-size: 10pt;
+    font-family: GilroyRegular;
+    margin: 20px 10px 0px 380px;
+}
+.log {
+    border: 3px;
+    border-style: solid;
+    border-color: #B25900 ;
+    border-radius: 30px;
+    background: #fff;
+    color: #B25900;
+    padding: 17px 20px;
+    font-size: 10pt;
+    font-family: GilroySemibold;
+}
+
+.img {
+    
+    margin: 80px 0px 130px 20px;
+}
+
+section {
+    display: flex;
+}
+
+footer{
+    display: flex;
+    width: 100%;
+    height: 153px;
+    background-color: #D4904B;
+}
+.number{
+    margin: 30px 60px 0 380px;
+}
+.number p {
+    color: #fff;
+}
+.secnum {
+    font-family: GilroyRegular;
+}
+
+.adress {
+    margin: 30px 456px 0px 60px;
+}
+.adress p {
+    color: #fff;
+}
+.secadr {
+    font-family: GilroyRegular;
+    margin-top: -3px;
+}
+
+.contact{
+    margin: 30px 0px 0px 0px;
+}
+.contact p {
+    color: #fff;
+}
+.secon {
+    font-family: GilroyRegular;
+    margin-top: -3px;
+}
+
+.nadpis{
+    font-size: 72px;
+    color: #D4904B;
+}
+
+
+
+
+
+@font-face{
+    font-family: "GilroyBold";
+    src: url("C:/Users/Равиль/Desktop/site/fonts/gilroy-bold.ttf") format("truetype");
+    font-style: normal; 
+    font-weight: normal; 
+    }
+
+    @font-face{
+        font-family: "GilroyRegular";
+        src: url("C:/Users/Равиль/Desktop/site/fonts/gilroy-regular.ttf") format("truetype");
+        font-style: normal; 
+        font-weight: normal; 
+        }
+
+        @font-face{
+            font-family: "GilroySemibold";
+            src: url("C:/Users/Равиль/Desktop/site/fonts/gilroy-semibold.ttf") format("truetype");
+            font-style: normal; 
+            font-weight: normal; 
+            }
